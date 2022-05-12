@@ -1087,6 +1087,8 @@ As a result, the authors identified 23 quality model families. The first three q
 
 | Paper_id | Name | Definition | Qualitative/Quantitative | Targeted to SW | Reviewer | Comment |
 | :------: | :--: | :--------: | :----------------------: | :------------: | :------: | :-----: |
+|   150    |  Software Maturity (with many sub-criterion)    |       The software maturity levels provide guidance on what minimum, expectedand excellent standards look like, and will be used to evaluate the productsproduced by SPs.     |           Quantitative               |       Yes         | CL       |         |
+| :------: | :--: | :--------: | :----------------------: | :------------: | :------: | :-----: |
 |   150    |      |            |                          |                | CL       |         |
 
 ---
